@@ -93,6 +93,8 @@ footer{
 	text-align: center;
 	padding: 90px;
 	background-image: url("../img/home-grid-banner.jpg");
+	background-position: center;
+	background-size: cover;
 	color: var(--color-hero);
 	
 }
